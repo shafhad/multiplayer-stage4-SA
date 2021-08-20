@@ -11,6 +11,8 @@ function preload() {
   car1_img = loadImage("../assets/car1.png");
   car2_img = loadImage("../assets/car2.png");
   track = loadImage("../assets/track.jpg");
+  fuelImage = loadImage("./assets/fuel.png");
+  powerCoinImage = loadImage("./assets/goldCoin.png");
 }
 
 //BP
